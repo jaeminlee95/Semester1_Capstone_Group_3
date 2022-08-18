@@ -1,14 +1,10 @@
 # Semester 1 Capstone Project "Data Explorers" 
 
+
+below is the symtax for adding image
+
 ![image](https://user-images.githubusercontent.com/110118017/185276325-3c8b1569-8bc4-445d-ab46-c470c6775da6.png)
 
-* Business Understanding
-* Data Understanding
-* Data Preparation
-* Data Analysis
-* Visualization
-* Statistical Communication
-* Code Quality
 
 
 ## 1. Overview
