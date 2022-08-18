@@ -7,7 +7,7 @@ below is the symtax for adding image
 
 
 
-## 1. Overvie
+## 1. Overview
  * Business Problem:
        * Determine successful trends in the film industry using available data to provide actionable insight.
        
