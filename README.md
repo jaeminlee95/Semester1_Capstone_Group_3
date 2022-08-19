@@ -1,6 +1,6 @@
 # Semester 1 Capstone Project - Data Explorers
 
-![data explorer]("https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif")
+![data explorer](https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif)
 
 ## Authors
  * Dylan Orndorf-Ronk
@@ -11,10 +11,10 @@
 
 
 ## Overview
- * Business Problem:
+ * Business Problem
       * Provide business insight for Computer Vision. 
        
- * Business Solutions:
+ * Business Solution
       * We recommend Computer Vision to produce movies of the Musical, Animation, Sci-Fi or Adventure genres. 
       * Target top 7 languages for max region reach.
       * Invest in popular directors.
@@ -30,7 +30,18 @@
      * [Rotten Tomatoes](https://www.rottentomatoes.com/)
      * [TheMovieDB](https://www.themoviedb.org/)
      * [The Numbers](https://www.the-numbers.com/)
-   * Description of data
+   * Description of data & Features used
+     * IMDB Data - SQL Database
+       * Movie Genres
+       * Language
+       * Director Names
+       * Average Rating
+       * Number of Votes
+     * The Numbers Data - csv file
+       * Production Budget
+       * Domestic Gross & Worldwide Gross
+     
+     
    * Three visualizations (the same visualizations presented in the slides and notebook)
        
 ## Statistical Communication
