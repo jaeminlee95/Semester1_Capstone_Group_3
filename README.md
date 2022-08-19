@@ -1,19 +1,22 @@
-# Semester 1 Capstone Project "Data Explorers" 
+# Semester 1 Capstone Project - Data Explorers
 
+![Data Explorers](https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif)
 
-below is the symtax for adding image
-
-![image](https://user-images.githubusercontent.com/110118017/185276325-3c8b1569-8bc4-445d-ab46-c470c6775da6.png)
-
+Group Members
+ * Dylan Orndorf-Ronk, 
+ * Alex Bonczkiewicz
+ * Alberto Torres
+ * Travis McCloughan
+ * Jaemin Lee
 
 
 ## 1. Overview
  * Business Problem:
-      * Determine successful trends in the film industry using available data to provide actionable insight.
+      * Provide business insight for Computer Vision. 
        
  * Business Solutions:
       * We recommend Computer Vision to produce movies of the Musical, Animation, Sci-Fi or Adventure genres. 
-      * Computer Vision should initially target the US market for more stable ROI and expand to worldwide as the budget allows.
+      * Target top 7 languages for max region reach.
       * Invest in popular directors.
 
 ## 2. Business Understanding
@@ -22,12 +25,34 @@ below is the symtax for adding image
  
 ## 3. Data Understanding and Analysis
    * Source of data
+     * [Box Office Mojo](https://www.boxofficemojo.com/)
+     * [IMDB](https://www.imdb.com/)
+     * [Rotten Tomatoes](https://www.rottentomatoes.com/)
+     * [TheMovieDB](https://www.themoviedb.org/)
+     * [The Numbers](https://www.the-numbers.com/)
    * Description of data
    * Three visualizations (the same visualizations presented in the slides and notebook)
        
 ## 4. Statistical Communication
-   * Results of statistical inference
-   * Interpretation of these results in the context of the problem
+   * Q: Do movies with a rating of at least 6.5 lead to a higher revenue?
+   * A: There is a statistical significance that higher rated movies make more money.
+   * Q: Which genres perform the best, given a high rating and high total profit?
+   * A: Musical, Animation, Sci-Fi, and Adventure
        
 ## 5. Conclusion
-   * Summary of conclusions including three relevant findings
+
+Recommendations:
+   * Invest in top genres
+   * Release in areas with top languages.
+   * Research pricing for directors.
+   * Continue researching trends.
+   
+Positives:
+   * Avoid common pitfalls through intelligent investment
+   * Greatly imporved return on investment potential
+   * Reduce losses
+   
+Limitations:
+   * Lack pricing for directors.
+   * Return on investment is easily skewed.
+   * Limited data for some countries.
