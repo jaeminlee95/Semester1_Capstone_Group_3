@@ -50,11 +50,11 @@
    
    ![image](https://user-images.githubusercontent.com/110133652/185657004-775cbff4-1820-4849-908a-d8e036cd4cae.png)
  
-   Visualizing the distribution of movie ratings and where the mean and median lie 
+   Visualizing the distribution of movie ratings and where the mean and median lie.
    
    ![image](https://user-images.githubusercontent.com/110133652/185657184-0b98f9bd-2926-47b0-8be0-76e37ce4e9e9.png)
 
-   Most profitable movie genres 
+   Most profitable movie genres.
 
    ![image](https://user-images.githubusercontent.com/110133652/185657214-b57a3ced-3cf9-43f7-8d17-0388e65ed4c9.png)
 
@@ -90,3 +90,5 @@ Limitations:
 ## For More Information
 
 See the full analysis in the [Jupyter Notebook](./student.ipynb) or review this [presentation](./pdf).
+
+**provide the link to our respository when we finalize everything**
