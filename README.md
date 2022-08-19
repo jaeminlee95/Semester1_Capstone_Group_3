@@ -1,6 +1,6 @@
 # Semester 1 Capstone Project - Data Explorers
 
-![data explorer](https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif)
+![image](https://user-images.githubusercontent.com/110118017/185711153-fe59c428-212c-4cf5-8241-de6548769af8.png)
 
 ## Authors
  * Dylan Orndorf-Ronk
@@ -41,6 +41,7 @@
      * The Numbers Data - csv file
        * Production Budget
        * Domestic Gross & Worldwide Gross
+
      
      
    *(Figure 1)* Demonstration of ROI by language to target the most regions with the most popular released movies
