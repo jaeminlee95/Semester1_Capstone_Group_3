@@ -49,9 +49,13 @@
  
    *(Figure 2)* Visualizing the distribution of movie ratings and where the mean and median lie.
    
-   ![image](https://user-images.githubusercontent.com/110133652/185657184-0b98f9bd-2926-47b0-8be0-76e37ce4e9e9.png)
+   ![image](https://user-images.githubusercontent.com/110133652/185686264-4ab89ffd-463d-4d55-be47-a1defe8f4f11.png)
+   
+   *(Figure 3)* Visualizing the distribution of movie ratings and where the mean and median lie.
+   
+   ![image](https://user-images.githubusercontent.com/110133652/185686381-4c44b3ac-a942-40e1-a4a4-724e60cbab21.png)
 
-   *(Figure 3)* Most profitable movie genres.
+   *(Figure 4)* Most profitable movie genres.
 
    ![image](https://user-images.githubusercontent.com/110133652/185657214-b57a3ced-3cf9-43f7-8d17-0388e65ed4c9.png)
 
