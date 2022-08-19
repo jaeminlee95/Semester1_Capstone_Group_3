@@ -1,9 +1,9 @@
 # Semester 1 Capstone Project - Data Explorers
 
-![Data Explorers](https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif)
+![data explorer]("https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif")
 
 Group Members
- * Dylan Orndorf-Ronk, 
+ * Dylan Orndorf-Ronk
  * Alex Bonczkiewicz
  * Alberto Torres
  * Travis McCloughan
@@ -51,7 +51,9 @@ Positives:
    * Avoid common pitfalls through intelligent investment
    * Greatly imporved return on investment potential
    * Reduce losses
-   
+
+## 6. Next Steps
+
 Limitations:
    * Lack pricing for directors.
    * Return on investment is easily skewed.
