@@ -96,4 +96,4 @@
 
 See the full analysis in the [Jupyter Notebook](./Notebook.ipynb) or review this [presentation](./presentation.pdf).
 
-**provide the link to our respository when we finalize everything**
+Link to our repository: https://github.com/jaeminlee95/Semester1_Capstone_Group_3
