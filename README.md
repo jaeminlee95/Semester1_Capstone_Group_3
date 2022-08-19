@@ -51,7 +51,7 @@
    
    ![image](https://user-images.githubusercontent.com/110133652/185686264-4ab89ffd-463d-4d55-be47-a1defe8f4f11.png)
    
-   *(Figure 3)* Visualizing the distribution of movie ratings and where the mean and median lie.
+   *(Figure 3)* Visualizing that there is a statistical significance that higher rated movies make more money.
    
    ![image](https://user-images.githubusercontent.com/110133652/185686381-4c44b3ac-a942-40e1-a4a4-724e60cbab21.png)
 
