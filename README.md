@@ -94,6 +94,6 @@
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./student.ipynb) or review this [presentation](./pdf).
+See the full analysis in the [Jupyter Notebook](./Notebook.ipynb) or review this [presentation](./presentation.pdf).
 
 **provide the link to our respository when we finalize everything**
