@@ -13,6 +13,9 @@
 ## Overview
  * Business Problem
       * Provide business insight for Computer Vision. 
+
+     -For this project Data Explorers used data analysis and statistical methods to generate metrics where Computer Vision should invest their funds in
+     to be able to create a new movie studio and have a positive flow in profits coming in. 
        
  * Business Solution
       * We recommend Computer Vision to produce movies of the Musical, Animation, Sci-Fi or Adventure genres. 
