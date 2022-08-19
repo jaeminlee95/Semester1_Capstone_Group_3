@@ -44,6 +44,8 @@
      
      
    * Three visualizations (the same visualizations presented in the slides and notebook)
+   * ![image](https://user-images.githubusercontent.com/110133652/185657004-775cbff4-1820-4849-908a-d8e036cd4cae.png)
+
        
 ## Statistical Communication
    * Q: Do movies with a rating of at least 6.5 lead to a higher revenue?
