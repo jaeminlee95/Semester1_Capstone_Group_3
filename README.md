@@ -67,26 +67,30 @@
    * A: There is a statistical significance that higher rated movies make more money.
    * Q: Which genres perform the best, given a high rating and high total profit?
    * A: Musical, Animation, Sci-Fi, and Adventure
-       
+
+## Results
+   * Advantages
+     * Avoid common pitfalls through intelligent investment
+     * Greatly improve return on investment potential
+     * Reduce losses
+   * Limitations
+     * Lack pricing for directors
+     * Return on investment is easily skewed
+     * Limited data for some countries
+
 ## Conclusion
 
-Recommendations:
    * Invest in top genres
    * Release in areas with top languages.
    * Research pricing for directors.
    * Continue researching trends.
-   
-Positives:
-   * Avoid common pitfalls through intelligent investment
-   * Greatly imporved return on investment potential
-   * Reduce losses
 
 ## Next Steps
 
-Limitations:
-   * Lack pricing for directors.
-   * Return on investment is easily skewed.
-   * Limited data for some countries.
+   * Gather more data on customer interest. (i.e. surveys)
+   * Research the top languages per region.
+   * Continually analyze trends using current datasets.
+
 
 ## For More Information
 
